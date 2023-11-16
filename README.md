@@ -145,7 +145,8 @@ html lang="en">
 
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/amrutha23ashok/cover/assets/120772913/b02aa8f6-6cbf-4c41-ac9d-9ee95d5b3c05)
+
 
 
 
