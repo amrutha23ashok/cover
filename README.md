@@ -145,8 +145,7 @@ html lang="en">
 
 
 ## OUTPUT:
-https://user-images.githubusercontent.com/118644502/241573398-f0f7168f-23bd-464b-be5e-cc8b8a5da06f.png
-
+[,,,https://user-images.githubusercontent.com/118644502/241573398-f0f7168f-23bd-464b-be5e-cc8b8a5da06f.png]
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
